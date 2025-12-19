@@ -1,0 +1,73 @@
+@font-face {
+    font-family: "Astrale";
+    src: url(./assets/Astrale.ttf) format(trueType);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+.contenedor {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.tarjeta {
+    background-color: rgb(168, 178, 221);
+    width: 600px;
+    margin: 20px;
+    display: flex;
+    border-radius: 25px;
+    align-items: center;
+    box-shadow: 10px 10px 5px lightblue;
+}
+
+.tarjeta img{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 20px 20px;
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    justify-content: space-evenly;
+}
+
+@media (max-width: 768px) {
+  .contenedor {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .tarjeta {
+    flex-direction: column;
+  }
+}
+
+
+
+.texto {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 10px;
+  text-decoration: solid;
+}
+
+h2{
+    font-family: "Astrale";
+    color: rgb(17, 16, 16);
+    font-size: 40px;
+    font-weight: 400;
+}
+
+h3, p{
+    font-weight: 400;
+    background-color: lightcoral;
+    width: 300px;
+}
+
+

@@ -16,7 +16,7 @@ Tarjetas renderizadas con Vite de diferentes escritores del terror, contienen un
 
 ## Instrucciones para clonar el repositorio
 1. Descargar o clonar el repositorio 
-git clone https://github.com/andreacastillo2022-gif/tarea4-utn.git
+git clone https://github.com/andreacastillo2022-gif/tarea4.utn
 2. ingresar a la carpeta
     cd tarea4-utn
 3. Ejecutar la tarea: una vez en la terminal, ingresar npm install para que se instalen los componentes faltantes de Vite (node-modules) y luego npm run dev para que se cree la ruta de la pagina. Luego, ctrl + click para ingresar a ella.

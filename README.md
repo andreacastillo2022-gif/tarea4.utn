@@ -30,3 +30,13 @@ Captura2: pagina minimizada con tarjetas en vertical.
 # Andrea Agustina Castillo
 # Curso: Curso de Desarrollo en React JS
 # Año: 2025
+
+#Bibliografia
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
+https://react.dev/learn/writing-markup-with-jsx
+https://react.dev/learn/passing-props-to-a-component
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/box-shadow
+fuentes: https://www.dafont.com/es/astrale-couture.font
+imagen stephen king: https://www.zagazine.mx/articulo/top-7-de-los-mejores-libros-de-stephen-king-que-no-puedes-dejar-de-leer
+imagen h.p. lovecraft: https://es.wikipedia.org/wiki/H._P._Lovecraft
+imagen de Mary Shelley: https://librosdelzorrorojo.com/autores/mary-shelley/
